@@ -38,19 +38,15 @@ This one day classroom style session will provide developers (and Architects) wi
 | Lunch Break
 |
 
-|1:30 PM - 1:50 PM
+|1:30 PM - 2:00 PM
 |Session 5: Services and Service Marketplace
 |Demo
 
-|1:50 PM - 2:05 PM
-|Command Line Interface (CLI) intro
-|Demo
-
-|2:05 PM - 2:20 PM
+|2:00 PM - 2:30 PM
 |Application Deployment
 |Demo
 
-|2:20 PM - 2:35 PM
+|2:30 PM - 2:35 PM
 |Deployment Manifest Intro
 | 
 
