@@ -8,7 +8,7 @@ This one day classroom style session will provide developers (and Architects) wi
 |===
 |Schedule
 |Presentation 
-|Demo/Lab
+|Demo
 
 |9:00 AM - 9:30 AM
 |Introduction and Discovery 
