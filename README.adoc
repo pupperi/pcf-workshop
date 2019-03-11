@@ -1,4 +1,4 @@
-= Pivotal Container Service Workshop
+= Pivotal Cloud Foundry Workshop
 
 == Schedule
 
@@ -14,21 +14,21 @@ This one day hands-on classroom style session will provide developers (and opera
 |Introduction and Discovery 
 |
 
-|9:30 AM - 10:00 AM
-|Session 1: link:https://drive.google.com/open?id=1FrIEXv7NvLN66ITTEkSTWATjzXjPNgbCEi9A1AekIko[_PKS Introduction_]
-|Demo
-
-|10:00 AM - 10:30 AM
-|Session 2: link:https://drive.google.com/open?id=1GXqWxj0v3UW-cftLMlBiVuyUVQgzvI6QcV5Zxq5JgJc[_Kubernetes 101_]
+|9:30 AM - 10:30 AM
+|Session 1: Cloud Native Applications and Architecture
 |
 
-|10:30 AM - 10:45 AM
+|10:30 AM - 11:00 AM
+|Session 2: Introduction to Pivotal Cloud Foundry
+|
+
+|11:00 AM - 11:15 AM
 |Break
 |
 
-|10:45 AM - 11:15 AM
-|
-a|<<Lab 1>>
+|11:30 AM - 12:00 PM
+| Pivotal Application Service Architecture
+
 
 |11:15 AM - 12:15 AM
 a|
