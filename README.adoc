@@ -2,7 +2,7 @@
 
 == Schedule
 
-This one day classroom style session will provide developers (and Architects) with experience about Cloud Native Application Architecture and Pivotal Cloud Foundry concepts. The session includes presentations, demos.
+This one day classroom style session will provide developers (and Architects) with experience about Cloud Native Application Architecture and Pivotal Cloud Foundry concepts. The session includes presentations and demos.
 
 [cols=3*,options=header]
 |===
