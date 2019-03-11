@@ -43,11 +43,11 @@ This one day classroom style session will provide developers (and Architects) wi
 |Demo
 
 |2:00 PM - 2:30 PM
-|Application Deployment
+|Session 6: Application Deployment
 |Demo
 
 |2:30 PM - 2:35 PM
-|Deployment Manifest Intro
+|Session 7: Deployment Manifest Intro
 | 
 
 |2:35 PM - 2:45 PM
@@ -55,23 +55,23 @@ This one day classroom style session will provide developers (and Architects) wi
 | 
 
 |2:45 PM - 3:15 PM
-|Buildpacks
+|Session 8: Buildpacks
 | 
 
 |3:15 PM - 3:30 PM
-|Domains and Routes
+|Session 9: Domains and Routes
 |Demo
 
 |3:30 PM - 3:40 PM
-|Application Logging and Metrics
+|Session 10: Application Logging and Metrics
 |Demo
 
 |3:40 PM - 4:00 PM
-|Scaling and Self-Healing
+|Session 11: Scaling and Self-Healing
 |Demo
 
 |4:00 PM - 4:30 PM
-|4 Levels of High Availability
+|Session 12: 4 Levels of High Availability
 |Demo
 
 |4:30 PM - 4:45 PM
