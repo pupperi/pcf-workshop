@@ -27,7 +27,7 @@ This one day hands-on classroom style session will provide developers (and opera
 |
 
 |11:30 AM - 12:00 PM
-| Pivotal Application Service Architecture
+| Session 3: Pivotal Application Service Architecture
 |
 
 
@@ -35,31 +35,51 @@ This one day hands-on classroom style session will provide developers (and opera
 | Lunch Break
 |
 
-|12:15 AM - 1:15 AM
-|Lunch
-|
+|1:15 PM -1:30 PM
+|Session 4: Orgs, Spaces, Users, Roles
+|Demo
 
-|1:15 PM -1:45 PM
-|Session 5: link:https://drive.google.com/open?id=1G9BUTF1CPnvLpyWYD0n5S97GgxahjJzMH3cv43yZMSY[_PKS: User Account and Authentication_]
-|LDAP integration demo
+|1:30 PM - 1:50 PM
+|Session 5: Services and Service Marketplace
+|Demo
 
-|1:45 PM -2:30 PM
-|Session 6: link:https://drive.google.com/open?id=17lCtuz-S8_sqi7J9MMSyxBLA0iQqzG52BUvYe5GURCY[_PKS: Secure Container Management With Harbor_]
-|Harbor demo
+|1:50 PM - 2:05 PM
+|Command Line Interface (CLI) intro
+|Demo
 
-|2:30 PM -2:45 PM
+|2:05 PM - 2:20 PM
+|Application Deployment
+|Demo
+
+|2:20 PM - 2:35 PM
+|Deployment Manifest Intro
+| 
+
+|2:35 PM - 2:45 PM
 |break
 | 
 
-|2:45 PM - 3:15 AM
-|Session 7: link:https://drive.google.com/open?id=1pog2brK7ljXKeHSQOjbCDevFMHRrIHl_MfXyE4MPqrE[_PKS: Monitoring and Logging_]
-a|<<Lab 3>>
+|2:45 PM - 3:15 PM
+|Buildpacks
+| 
 
-|3:15 PM - 3:45 AM
-|Session 8: link:https://drive.google.com/open?id=1PRC3ObePPcjspJnDaUbBrLkyxStBNJYgzfPIXhtlymk[_PKS: Upgrade Strategy_]
-|
+|3:15 PM - 3:30 PM
+|Domains and Routes
+| 
 
-|3:45 PM - 4:00 AM
+|3:30 PM - 3:40 PM
+|Application Logging and Metrics
+| 
+
+|3:40 PM - 4:00 PM
+|Scaling and Self-Healing
+|Demo
+
+|4:00 PM - 4:30 PM
+|4 Levels of High Availability
+| 
+
+|4:30 PM - 4:45 PM
 |Wrap up, Q&A
 |
 |===
