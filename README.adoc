@@ -28,13 +28,12 @@ This one day hands-on classroom style session will provide developers (and opera
 
 |11:30 AM - 12:00 PM
 | Pivotal Application Service Architecture
+|
 
 
-|11:15 AM - 12:15 AM
-a|
- * Session 3: link:https://drive.google.com/open?id=17kvn1Qe15r2NN_6fMbmkV9azwVIcl7kJkk0UMCI_WY4[_Kubernetes: Services_]
- * Session 4: link:https://drive.google.com/open?id=1MfOYORbH0AJmT2JHzyLMZckRKR_NqJLgslEa08Qpt6Y[_Kubernetes: Persistent Volumes_]
-a|<<Lab 2>>
+|12:00 PM - 1:00 PM
+| Lunch Break
+|
 
 |12:15 AM - 1:15 AM
 |Lunch
@@ -64,16 +63,3 @@ a|<<Lab 3>>
 |Wrap up, Q&A
 |
 |===
-
-Workshop::
-** Pre-work
-*** Make sure you have SSH client on your laptop/desktop. If not, it's time to install one now. 
-** Lab 1
-*** link:labs/lab_cli.adoc[Install and Setup CLIs]
-*** link:labs/lab_1stcontainer.adoc[Deploying Your First Container]
-** Lab 2
-*** link:labs/lab_declareConfig.adoc[Deploy Application with Declarative Configuration]
-*** link:labs/lab_deployment.adoc[Deploy Application with Deployment Controller]
-*** link:labs/lab_stateful.adoc[Deploy with Stateful Set and Persistent Volume]
-** Lab 3
-*** link:labs/lab_logging.adoc[Monitoring and Logging]
