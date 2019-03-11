@@ -2,7 +2,7 @@
 
 == Schedule
 
-This one day hands-on classroom style session will provide developers (and operators) with hands on experience with Pivotal Container Service concepts, architecture and fundamentals of deploying applications. The session includes presentations, demos and hands on labs
+This one day classroom style session will provide developers (and Architects) with experience about Cloud Native Application Architecture and Pivotal Cloud Foundry concepts. The session includes presentations, demos.
 
 [cols=3*,options=header]
 |===
