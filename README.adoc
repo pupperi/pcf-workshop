@@ -48,7 +48,7 @@ This one day classroom style session will provide developers (and Architects) wi
 
 |2:10 PM - 2:30 PM
 |Session 7: Blue/Green deployments
-| 
+|Demo
 
 |2:30 PM - 2:45 PM
 |Break
